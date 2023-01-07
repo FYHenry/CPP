@@ -1,0 +1,3 @@
+# Ignore C++ executable files and C++ libraries.
+*
+!*.*
